@@ -2,7 +2,7 @@
 
 ## Dataset unavailable (Kaggle/IMDb removed or inaccessible)
 - Use a locally cached copy of the downloaded dataset.
-- Switch to the official IMDb non-commercial datasets or another Kaggle movie dataset
+- Switch to another publicly available movie dataset with similar fields.
   (e.g. TMDb 5000) with similar fields; adapt column mapping.
 - As a last resort, use a small hand-built sample CSV for demos and tests.
 

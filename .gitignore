@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (raw datasets are downloaded locally, see data/README.md)
+data/*
+!data/README.md
+!data/.gitkeep

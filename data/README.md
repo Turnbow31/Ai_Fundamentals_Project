@@ -6,8 +6,6 @@ Raw data files are not committed (see `.gitignore`). Place them in this director
 
 - Primary: a movie dataset from [Kaggle](https://www.kaggle.com/datasets) built from
   [IMDb](https://www.imdb.com/) data (genre, director, actors, runtime, ratings).
-  The exact dataset will be chosen and recorded here (name, URL, license, date downloaded).
-- Official IMDb non-commercial datasets: https://developer.imdb.com/non-commercial-datasets/
 - This project uses the Movies Dataset by Daniel Grijalvas from Kaggle:
  https://www.kaggle.com/datasets/danielgrijalvas/movies
 

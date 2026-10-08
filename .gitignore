@@ -223,3 +223,6 @@ __marimo__/
 data/*
 !data/README.md
 !data/.gitkeep
+
+.env.*
+!.env.example

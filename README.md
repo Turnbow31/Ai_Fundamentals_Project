@@ -1,7 +1,6 @@
 # Ai_Fundamentals_Project
 
-Final project: a movie recommendation tool that suggests movies based on a
-user's preferences. It will use a Kaggle/IMDb movie dataset and a Random Forest
+Final project: a movie recommendation tool that suggests movies based on past movie statistics. It will use a Kaggle/IMDb movie dataset and a Random Forest
 model, using attributes such as genre, director, actors, runtime, and ratings.
 
 > Status: initial repository structure only. No model or application logic yet.

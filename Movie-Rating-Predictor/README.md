@@ -33,7 +33,8 @@ Navigate to the Movie-Rating-Predictor directory.
 Create a Python virtual environment:
 python -m venv .venv
 Activate the virtual environment:
-source .venv/bin/activate
+source .venv/bin/activate (linux/mac)
+.venv\Scripts\Activate.ps1 (windows)
 Install dependencies:
 pip install -r requirements.txt
 
